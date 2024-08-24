@@ -1,0 +1,101 @@
+.name-text,
+.email-text
+ {
+  display: block;
+  margin-bottom: 10px;
+}
+.survey {
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.google-img
+ {
+  display: block;
+  width: 200px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+.google-text {
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  width: 500px;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  display: block;
+  margin-bottom: 42px;
+}
+
+.first-name1,
+.first-name2,
+.email
+{
+padding-left: 8px;
+padding-right: 4px;
+padding-bottom: 7px;
+padding-top: 10px;
+width: 110px;
+border-radius: 10px;
+border:solid
+}
+.email {
+  display: block;
+  margin-top: 10px;
+  width: 240px;
+}
+
+.Sign-up-button {
+  background-color: rgb(88, 88, 235);
+  color: white;
+  font-size: 18px;
+  width: 250px;
+margin-top: 10px;  
+border: none;
+border-radius: 10px;
+padding-top: 8px;
+padding-bottom: 8px;
+cursor: pointer;
+}
+
+.request-a-ride-title{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+}
+.pickup,
+.destination {
+  padding-top:13px;
+  padding-bottom: 13px;
+  padding-left: 13px;
+  width: 240px;
+  border: none;
+  background-color: rgb(240, 240, 240);
+  display: block;
+  margin-bottom: 10px;
+}
+
+.request {
+  background-color: black;
+  color: white;
+  border:none;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+  margin-right: 10px;
+}
+.schedule {
+  background-color: rgb(240, 240, 240);
+  border:none;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-bottom: 10px;
+  margin-right: 10px;
+}
